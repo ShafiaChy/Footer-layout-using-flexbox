@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+     
+}
+
+.title{
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent-div{
+    background-color: rgb(55, 55, 67);
+    height: 250px;
+    display: flex;
+    justify-content: center;
+  
+}
+
+.child-div{
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-style{
+    color: blanchedalmond;
+
+}
+
+
+
+
+
+    
